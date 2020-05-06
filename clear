@@ -1,0 +1,25 @@
+[33mcommit 9e2c346f575b0d5105a3bc75fde5533be734da7b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Alejandro <franco.aaq712@gmail.com>
+Date:   Tue May 5 19:57:38 2020 -0400
+
+    Agregamos el cargo de la persona
+    
+    La persona es Freddy
+
+[33mcommit 059527df57ed74ec4c5cc113ae3f1b8f76ff18f5[m
+Author: Alejandro <franco.aaq712@gmail.com>
+Date:   Tue May 5 19:55:13 2020 -0400
+
+    Agregamos un cambio a su estatura
+
+[33mcommit fe28c89b1e62b7ef214d75cf0a3220db23f2471f[m
+Author: Alejandro <franco.aaq712@gmail.com>
+Date:   Tue May 5 19:15:29 2020 -0400
+
+    Cambios al archivo de historia para reflejar la edad correcta
+
+[33mcommit 169816b3989ca94d1fa721d6c2aff7a2bba254ff[m
+Author: Alejandro <franco.aaq712@gmail.com>
+Date:   Tue May 5 19:12:09 2020 -0400
+
+    Este es el primer commit de este archivo
